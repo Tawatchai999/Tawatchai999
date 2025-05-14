@@ -1,0 +1,10 @@
+###git<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="5; url=https://example.com">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>You are being redirected to <a href="https://example.com">example.com</a>. If not, click the link.</p>
+</body>
+</html>
